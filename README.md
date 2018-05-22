@@ -440,11 +440,11 @@ Next –> `ul.paginate-links > li.next > a`
 
 #### Limited Links:
 
-Number links –> `ul.paginate-links > li.number > a`
+Number links –> `ul.paginate-links > li.paginate-number > a`
 
-Left arrow –> `ul.paginate-links > li.left-arrow > a`
+Left arrow –> `ul.paginate-links > li.paginate-left-arrow > a`
 
-Right arrow –> `ul.paginate-links > li.right-arrow > a`
+Right arrow –> `ul.paginate-links > li.paginate-right-arrow > a`
 
 Ellipses –> `ul.paginate-links > li.ellipses > a`
 

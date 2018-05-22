@@ -468,13 +468,13 @@
 
     var liClass = []
     if (link === prev) {
-      liClass.push('left-arrow')
+      liClass.push('paginate-left-arrow')
     } else if (link === next) {
-      liClass.push('right-arrow')
+      liClass.push('paginate-right-arrow')
     } else if (link === ELLIPSES) {
       liClass.push('ellipses')
     } else {
-      liClass.push('number')
+      liClass.push('paginate-number')
     }
 
     if (link === currentPage) {
